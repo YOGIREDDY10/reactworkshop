@@ -1,0 +1,52 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"YogiReddy",
+                "role":"React developer",
+                "phone":"9542343132",
+                "email":"yogireddydondeti@gmail.com",
+                "address":"Guntur"
+            },
+            "skills":[
+                {
+                    "type":"web technologies",
+                    "values":["html","css","javascript"]
+                },
+                {
+                    "type":"programming lanuages",
+                    "values":["java","c","cpp"]
+                },
+                {
+                    "type":"Databases",
+                    "values":["mysql","oracle","mongo"]
+                }
+            ]
+        },
+        {
+            "basics":{
+                "name":"RakeshReddy",
+                "role":"full stack developer",
+                "phone":"9573550731",
+                "email":"rakeshreddymedam@gmail.com",
+                "address":"vizag"
+          },
+          
+          "skills":[
+            {
+                "type":"web technologies",
+                "values":["html","css","javascript"]
+            },
+            {
+                "type":"programming lanuages",
+                "values":["java","c","cpp","python"]
+            },
+            {
+                "type":"Databases",
+                "values":["mysql","oracle"]
+            }
+        ]
+
+        }
+    ]
+}

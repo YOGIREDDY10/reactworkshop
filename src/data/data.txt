@@ -1,0 +1,36 @@
+ {/* <div className='App'>
+      {/*<StateConcept />
+      <HooksConcept />*/}
+      <Cards />
+    </div>
+    );
+    /*>}
+}
+ 
+{</*--let Cards=()=>{
+  let profilesData=data.profiles;
+  let pics=[profile,profile1]
+
+ 
+  return(
+    <div className="row justify-content-center">
+        {profilesData.map((value,index)=>(
+          <section className="col-lg-4 col-md-4 col-sm-10 m-2" key={index}>
+            <div className="card">
+              <div className="card-body text-center">
+                <img src={pics[index]} alt="this is profile image" style={{width:"50%"}}/>
+                <h2>{value.basics.name }</h2>
+                <p className="btn btn-success">View Profile</p><hr></hr>
+                <a href="tel: +91 9542343132" className="btn">phonenumber</a>
+                <a href="mail: yogireddydondeti@gmail.com" className="btn">email</a>
+                <a href="https://facebook.com" className="btn">Facebook</a>
+                <a href="https://linkedin.com" className="btn">LinkedIn</a>
+                
+             </div>
+             </div>
+          </section>
+        ))}
+      
+    </div>
+  );
+}*/>
